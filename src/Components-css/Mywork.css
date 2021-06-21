@@ -1,0 +1,25 @@
+@media (min-width: 768px) { 
+    .pimg{
+        width: 100%;
+        height: 100%;
+        /* margin-bottom: 30% !important; */
+    }
+    .pimg:hover{
+        transform: scale(1.05);
+    }
+    .card{
+        width: 25rem !important;
+        margin: 2% !important;
+    }
+}
+
+.card {display:inline-block;}
+.card-title{
+    font-weight: bold !important;
+    color: rgb(255, 102, 0);
+    text-decoration: orangered underline;
+}
+.wimg{
+    width: 100%;
+    height: 100%;
+}

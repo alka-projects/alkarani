@@ -1,0 +1,29 @@
+@media (min-width: 768px) {
+    .al{
+text-align: left;
+    }
+ }
+.foot{
+    background:rgb(8, 8, 8);
+}
+.hey{
+    /* font-size: 2rem; */
+    font-weight: bold;
+    color: cadetblue;
+    text-align: center;
+}
+.list{
+    font-weight: bold;
+}
+.list li{
+  list-style: none;
+  padding: 3%;
+  color: white;
+}
+.hey:hover{
+    text-decoration: underline;
+}
+.al{
+    color: white;
+    /* text-align: left; */
+}
