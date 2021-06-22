@@ -6,7 +6,6 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import alka from './alka.jpeg'
 import Button from 'react-bootstrap/Button'
-import Slide from '@material-ui/core/Slide';
 
 function About() {
     return (
