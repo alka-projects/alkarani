@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alkarani/static/css/main.f14da83d.chunk.css",
-    "main.js": "/alkarani/static/js/main.6585f521.chunk.js",
-    "main.js.map": "/alkarani/static/js/main.6585f521.chunk.js.map",
+    "main.js": "/alkarani/static/js/main.cb59e789.chunk.js",
+    "main.js.map": "/alkarani/static/js/main.cb59e789.chunk.js.map",
     "runtime-main.js": "/alkarani/static/js/runtime-main.bc245b59.js",
     "runtime-main.js.map": "/alkarani/static/js/runtime-main.bc245b59.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/alkarani/static/css/2.4c97ca4f.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e36fd763.chunk.js",
     "static/css/main.f14da83d.chunk.css",
-    "static/js/main.6585f521.chunk.js"
+    "static/js/main.cb59e789.chunk.js"
   ]
 }
