@@ -25,7 +25,7 @@ function Header() {
     }, [])
     return (
         <>
-        <Navbar expand="md" collapseOnSelect style={{ transition: '1s ease',backgroundColor: navBackground ? 'skyblue' : 'transparent'}} fixed="top" variant="light" className="p-4">
+        <Navbar expand="md" collapseOnSelect style={{ transition: '1s ease',backgroundColor: navBackground ? 'skyblue' : 'transparent',marginLeft: '2%', marginRight:'2%'}} fixed="top" variant="light" className="p-4">
           <Navbar.Brand href="#home" className="p-4">
           <img alt="not found"  src={Component} width="60" height="60"/>{' '}
            <span className="name">Alka</span> 
